@@ -1,13 +1,11 @@
 # Table of contents
 
 * [Introdução](README.md)
-
-## Entendendo o Básico <a id="basico"></a>
-
-* [Propriedades](basico/propriedades.md)
-* [Estado](basico/estado.md)
-* [Imutabilidade](basico/imutabilidade.md)
-* [Componentes](basico/componentes.md)
+* [Entendendo o Básico](entendendo-o-basico/README.md)
+  * [Propriedades](entendendo-o-basico/propriedades.md)
+  * [Estado](entendendo-o-basico/estado.md)
+  * [Imutabilidade](entendendo-o-basico/imutabilidade.md)
+  * [Componentes](entendendo-o-basico/componentes.md)
 * [O Primeiro Hello World](o-primeiro-hello-world.md)
 * [Performance](performance/README.md)
   * [UseCallback](performance/usecallback.md)
