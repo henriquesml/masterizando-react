@@ -16,6 +16,7 @@
 
 ## Performance <a id="performance-1"></a>
 
+* [Respeitar Imutabilidade](performance-1/respeitar-imutabilidade.md)
 * [Key \(Map\)](performance-1/key-map.md)
 * [UseCallback](performance-1/usecallback.md)
 * [UseMemo](performance-1/usememo.md)
