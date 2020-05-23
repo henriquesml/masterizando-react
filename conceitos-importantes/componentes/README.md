@@ -53,7 +53,7 @@ Então ele deverá ser decomposto em subcomponentes menores.
 
 ### Componentes devem ser feitos com classes ou funções?
 
-As duas formas funcionam no React, porém a maneira indicada pelos desenvolvedores da biblioteca é através de funções. As atuais features do React \(hooks, por exemplo\) atendem melhor as funções e provem facilitadores que tornam o desenvolvimento **muito** melhor e mais fácil.
+As duas formas funcionam no React, porém a maneira indicada pelos desenvolvedores da biblioteca é através de funções. As atuais features do React \(hooks por exemplo\) atendem melhor as funções e provem facilitadores que tornam o desenvolvimento **muito** melhor e mais fácil.
 
 
 
