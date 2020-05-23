@@ -4,7 +4,7 @@ description: 'Entendesse por imutável, algo que não está sujeito a mudanças 
 
 # Imutabilidade
 
-Cada alteração de estado de um componente, deve respeitar o principio da imutabilidade. Não devemos alterar da maneira tradicional como era feito antigamente no javascript.
+A imutabilidade é importantíssima dentro da biblioteca, cada alteração de estado de um componente deve respeitar os seus princípios. Não devemos alterar da maneira tradicional como era feito antigamente no javascript.
 
 **Errado**
 
