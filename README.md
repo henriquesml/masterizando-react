@@ -1,6 +1,6 @@
 ---
 description: >-
-  introduzindo de uma maneira introdutória uma introdução que introduz a
+  introduzindo de uma maneira introdutória, uma introdução que introduz a
   inicialização à introdução.
 ---
 
