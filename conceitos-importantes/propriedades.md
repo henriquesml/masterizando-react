@@ -45,7 +45,6 @@ function Carro(props){
 }
 
 // Ex: 2
-
 function Carro({nome, marca}){
     return(
         <h1>Carro: {nome}</h1>
