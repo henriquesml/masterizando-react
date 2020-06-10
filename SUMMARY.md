@@ -13,6 +13,7 @@
 ## Compartilhamento de estado
 
 * [Contexto](compartilhamento-de-estado/contexto.md)
+* [Hook Personalizado](compartilhamento-de-estado/hook-personalizado.md)
 
 ## Performance <a id="performance-1"></a>
 
