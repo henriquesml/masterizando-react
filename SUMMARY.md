@@ -13,7 +13,6 @@
 ## Compartilhamento de estado
 
 * [Contexto](compartilhamento-de-estado/contexto.md)
-* [Hook Personalizado](compartilhamento-de-estado/hook-personalizado.md)
 
 ## Performance <a id="performance-1"></a>
 
@@ -22,5 +21,8 @@
 * [UseCallback](performance-1/usecallback.md)
 * [UseMemo](performance-1/usememo.md)
 * [React.Memo](performance-1/react.memo.md)
+
+---
+
 * [Referências](referencias.md)
 
